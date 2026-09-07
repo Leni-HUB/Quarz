@@ -163,7 +163,7 @@ plugins:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     options:
       localGraph:
         drag: true
@@ -192,9 +192,9 @@ plugins:
         showTags: true
         focusOnHover: true
         enableRadial: true
-  layout:
-    position: right
-    priority: 10
+    layout:
+      position: right
+      priority: 10
   - source: "@quartz-community/backlinks"
     enabled: true
     layout:
@@ -287,7 +287,7 @@ plugins:
       priority: 15
       display: all
   - source: "@quartz-community/obsidian-plugin-excalidraw"
-    enabled: true
+    enabled: false
     options:
       enableInteraction: true
       darkMode: auto
