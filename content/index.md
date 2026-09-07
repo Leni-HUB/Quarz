@@ -1,5 +1,6 @@
 ---
-title: Welcome to Quartz
+title:  Meine Notizen – Gedanken
+tags #trans #IT
 ---
 
 This is a blank Quartz installation.
